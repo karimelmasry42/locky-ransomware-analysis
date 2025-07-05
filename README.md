@@ -17,14 +17,14 @@ This repository contains a comprehensive static and dynamic analysis of the Lock
 
 ## 📂 Folder Structure
 
-\`\`\`
+```
 ├── analysis/
 │   ├── static/
 │   └── dynamic/
 ├── report/
 ├── provided_material/
 └── sample/ (excluded from GitHub)
-\`\`\`
+```
 
 ---
 
